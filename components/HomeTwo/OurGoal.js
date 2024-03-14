@@ -31,7 +31,7 @@ export default function OurGoal() {
 						</div>
 					</div>
 					<div className="col-xl-5 offset-xl-1 order-1 order-xl-2">
-						<img src="img/about-img1.jpg" alt="" />
+						<img src="img/goal.png" alt="dhakalad" />
 					</div>
 				</div>
 			</div>

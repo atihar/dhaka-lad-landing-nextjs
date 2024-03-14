@@ -36,6 +36,15 @@ export default function Preloader() {
 						<span data-text-preloader="A" className="letters-loading">
 							A
 						</span>
+						<span data-text-preloader="L" className="letters-loading">
+							L
+						</span>
+						<span data-text-preloader="A" className="letters-loading">
+							A
+						</span>
+						<span data-text-preloader="D" className="letters-loading">
+							D
+						</span>
 					</div>
 					<p className="text-center">Loading</p>
 				</div>

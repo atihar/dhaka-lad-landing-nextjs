@@ -15,7 +15,7 @@ export default function Navbar() {
 						<div className="logo">
 							<Link href="/">
 								<a className="logo-link h1 text-white fw-bold">
-									Dhakalad
+									<img src="/img/dhakalad.png" alt="logo" />
 								</a>
 							</Link>
 						</div>
@@ -33,8 +33,8 @@ export default function Navbar() {
 							</div>
 						</div>
 						<div className="header-right-element text-white">
-							<a href="#">dhakaladbd@gmail.com</a>
-							<a href="tel:+8801976-657136" className="theme-btn black">Contact Us</a>
+							<a href="#">info@dhakalad.com</a>
+							<a href="tel:+8801976657136" className="theme-btn">+880 1976-657136</a>
 						</div>
 					</div>
 					<div className="d-block d-lg-none col-sm-1 col-md-8 col-6">

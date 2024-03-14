@@ -11,7 +11,7 @@ export default function Footer() {
 								<div className="about-us-widget">
 									<Link href="/">
 										<a className="logo-link h1 text-white fw-bold">
-											Dhakalad
+											<img src="/img/dhakalad.png" alt="dhakalad" />
 										</a>
 									</Link>
 									<p>
@@ -105,7 +105,7 @@ export default function Footer() {
 								<Link href="https://weabers.com">
 									<a>Crafted by Weabers</a>
 								</Link>{" "}
-								All Rights Reserved by Dhakalad.
+								|| All Rights Reserved by Dhaka Lad.
 							</p>
 						</div>
 						<div
@@ -118,17 +118,17 @@ export default function Footer() {
 									<FaFacebookF />
 								</a>
 							</Link>
-							<Link href="#">
+							{/* <Link href="#">
 								<a>
 									<FaTwitter />
 								</a>
-							</Link>
-							<Link href="#">
+							</Link> */}
+							<Link href="https://instagram.com/dhakaladbd">
 								<a>
 									<FaInstagram />
 								</a>
 							</Link>
-							<Link href="https://www.linkedin.com/in/shihabpatwary/">
+							<Link href="https://www.linkedin.com/company/dhakalad/">
 								<a>
 									<FaLinkedinIn />
 								</a>

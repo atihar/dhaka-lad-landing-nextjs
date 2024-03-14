@@ -8,13 +8,15 @@ export default function HeroTwo() {
 					<div className="row">
 						<div className="col-xl-6 text-center text-xl-start col-12">
 							<div className="hero-contents">
-								<h1>Premiums at unbeatable price</h1>
+								<h1>Subscriptions and corporate solutions</h1>
 								<p>
-									Advanced software for managing your business. Through which business can be
-									controlled very easily as required.
+									We seamlessly deliver digital services, tailored
+									subscriptions, and robust corporate solutions to empower major startups.
+									Our commitment to excellence ensures
+									that your business thrives in today's dynamic landscape.
 								</p>
-								<Link href="/">
-									<a className="theme-btn red-color">Great Offers</a>
+								<Link href="#services">
+									<a className="theme-btn blue-color">Hot Deals 🔥 </a>
 								</Link>
 								<Link href="/">
 									<a href="#" className="theme-btn minimal-btn">

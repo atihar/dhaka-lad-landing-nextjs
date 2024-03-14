@@ -3,7 +3,7 @@ import SingleService from "./SingleService";
 
 export default function Services() {
 	return (
-		<section className="services-wrapper fix section-padding">
+		<section className="services-wrapper fix section-padding" id="services">
 			<div className="container">
 				<div className="col-lg-8 ps-xl-5 pe-xl-5 col-12 offset-lg-2 text-center">
 					<div className="block-contents">
