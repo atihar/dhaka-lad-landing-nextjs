@@ -25,8 +25,8 @@ export default function Navbar() {
 							<div className="main-menu">
 								<ul>
 									<li>
-										<a href="https://www.facebook.com/dhakalad">
-											Facebook Page
+										<a href="tel:+8801976657136">
+										+880 1976-657136
 										</a>
 									</li>
 								</ul>
@@ -34,7 +34,7 @@ export default function Navbar() {
 						</div>
 						<div className="header-right-element text-white">
 							<a href="#">info@dhakalad.com</a>
-							<a href="tel:+8801976657136" className="theme-btn">+880 1976-657136</a>
+							<a href="https://www.facebook.com/dhakalad" className="theme-btn">Get Started Now</a>
 						</div>
 					</div>
 					<div className="d-block d-lg-none col-sm-1 col-md-8 col-6">

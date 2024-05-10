@@ -4,21 +4,21 @@ export const servicesData = [
 		title: "LinkedIn Premium Business",
 		content: "Boost your professional profile and network with millions of experts and recruiters. Unlock exclusives such as InMail, Who's Viewed Your Profile, LinkedIn Learning, and more.",
 		icon: "block-chain.svg",
-		price: "7500 / 1 year"
+		price: "8000 / 1 year"
 	},
 	{
 		id: 2,
 		title: "Canva Pro",
 		content: "Canva Pro is a subscription service that offers unlimited access to premium content, design tools, and AI-powered features for creating stunning designs.",
 		icon: "mukut.svg",
-		price: "100 / 1 month"
+		price: "250 / 1 month"
 	},
 	{
 		id: 3,
 		title: "Coursera Plus",
 		content: "With your Coursera Plus subscription, you get unlimited access to more than 7,000 courses, Projects, Specializations, and Professional Certificate programs in a variety of domains,",
 		icon: "display.svg",
-		price: "1999 / 1 year"
+		price: "2000 / 1 year"
 	},
 	{
 		id: 4,
@@ -32,7 +32,7 @@ export const servicesData = [
 		title: "ChatGpt Plus",
 		content: "Chat with the most advanced conversational AI powered by ChatGPT. Have fun, learn new things, and get inspired by chatting with ChatGPT. ",
 		icon: "micro.svg",
-		price: "700 / 1 month"
+		price: "600 / 1 month"
 	},
 	{
 		id: 6,
@@ -67,14 +67,14 @@ export const servicesData = [
 		title: "Cyber Security for Fcommerce",
 		content: "Safeguard your online storefront with DhakaLad's cutting-edge Cyber Security solutions tailored for F-commerce. Protect your customers' data and ensure a secure shopping experience.",
 		icon: "secure.svg",
-		price: "999 / 1 month"
+		price: "1000 / 1 month"
 	},
 	{
 		id: 11,
 		title: "Facebook Chatbot",
 		content: "Automate responses, provide instant support, and guide your customers through their journey 24/7. Enhance engagement and elevate your brand's customer service effortlessly.",
 		icon: "micro.svg",
-		price: "999 / 1 month"
+		price: "1000 / 1 month"
 	},
 	{
 		id: 12,
@@ -88,13 +88,13 @@ export const servicesData = [
 		title: "Landing Page Design",
 		content: "Our team of creative wizards specializes in designing visually stunning and highly effective landing pages that captivate and convert. Start your journey to higher conversion rates now.",
 		icon: "manibag.svg",
-		price: "4999 / 1 month"
+		price: " - - / 1 month"
 	},
 	{
 		id: 14,
 		title: "Premium Hosting + Free Domain",
 		content: "Experience lightning-fast website performance, unparalleled uptime, and a complimentary domain name. It's everything your brand needs to flourish online, bundled for your convenience",
 		icon: "block-chain.svg",
-		price: "3999 / 1 year"
+		price: "4000 / 1 year"
 	},
 ];

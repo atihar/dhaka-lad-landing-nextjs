@@ -13,7 +13,7 @@ function Home() {
 	return (
 		<>
 			<Head>
-				<title>Dhaka Lad - Digital services and corporate solutions</title>
+				<title>Dhaka Lad - Corporate Digital services</title>
 			</Head>
 			<HeroTwo />
 			<Testimonial />
